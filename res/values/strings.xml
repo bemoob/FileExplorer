@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Files Explorer</string>
+    
+    <string name="folder_up">Folder up</string>
+    
+    <string name="is_not_a_folder">Isn\'t a folder</string>
+    <string name="already_in_root_folder">Already in root folder</string>
+    <string name="folder_isnt_readable">Folder isn\'t readable</string>
+    <string name="folder_is_empty">Folder is empty</string>
+    
+    <!--  Non language dependent strings -->
+    
+    <string name="app_version">1.0.0</string>
+    
+</resources> 

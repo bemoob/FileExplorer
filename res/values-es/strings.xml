@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Explorador de archivos</string>
+    
+    <string name="folder_up">Directorio anterior</string>
+    
+    <string name="is_not_a_folder">No es un directorio</string>
+    <string name="already_in_root_folder">Ya está en el directorio raíz</string>
+    <string name="folder_isnt_readable">El directorio no se puede leer</string>
+    <string name="folder_is_empty">El directorio está vacío</string>
+        
+</resources>
